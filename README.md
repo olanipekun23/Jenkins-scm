@@ -74,3 +74,7 @@ By the end of this project, you will:
 11. Delivery Successful.
 
 ![success](image-10.png)
+
+12. Project build.
+
+![Proj](image-11.png)
